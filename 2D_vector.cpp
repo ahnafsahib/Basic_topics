@@ -31,6 +31,10 @@ int main() {
    //    cout << '\n';
    // }
 
+
+vector<vector<int>> v(n, vector<int>(m));
+
+   
    int n;
    cin >> n;
    vector<string> v;
